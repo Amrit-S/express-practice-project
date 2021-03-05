@@ -28,7 +28,7 @@ this on your screen:
 
 There are four required, and one optional file for you to touch. 
 
-The three required files are app.js, practice.js, validation.js, and users.js. I highly highly recommend you 
+The three required files are `app.js`, `practice.js`, `validation.js`, and `users.js`. I highly highly recommend you 
 implement those files in that order, as they build on each other. I've marked instructions on top of each file,
 and have // TO - DO on all parts you need to implement. 
 
@@ -40,7 +40,7 @@ you to get comfortable with route construction, and syntax in that file as well 
 to test your routes by feeding the URLs, and also by trying out POSTMAN. POSTMAN is an invaluable tool for testing out your
 Express routes, especially for PUT, POST, and DELETE routes. 
 
-The optional file is explore.js, and this is a file for you to do whatever you want in. 
+The optional file is `explore.js`, and this is a file for you to do whatever you want in. 
 
 ## Project Overview
 
