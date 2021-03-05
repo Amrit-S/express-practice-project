@@ -6,7 +6,7 @@ In the project directory root, you can run:
 ### `cd express-practice-project`
 ### `npm install`
 
-Note: You should only have to run `npm install` one time, and this automatically download all dependencies for you. 
+Note: You should only have to run `npm install` one time, and this will automatically download all dependencies for you. 
 
 ## Running the Project 
 
