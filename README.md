@@ -47,7 +47,7 @@ The optional file is `explore.js`, and this is a file for you to do whatever you
 The project is geared to give some practical understanding of how Express routes work utilizing some validation middleware. 
 Particularly, the HTTP Protocol (Requests/Responses), JSON objects, and Javascript familiarity. 
 
-If you need a reference, try looking at the [https://github.com/TritonSE/UWEAST-Community-Kitchen/tree/main/backend](UWEAST project's backend), as the set-up is very very similar. If you're still stuck, Stack Overflow responses tend to be useful, and also you can ask Amrit or anyone else on 
+If you need a reference, try looking at the [https://github.com/TritonSE/UWEAST-Community-Kitchen/tree/main/backend](UWEAST) project's backend, as the set-up is very very similar. If you're still stuck, Stack Overflow responses tend to be useful, and also you can ask Amrit or anyone else on 
 the team. 
 
 ## Testing
